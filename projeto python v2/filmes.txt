@@ -1,0 +1,8 @@
+Inception;Ficção Científica;Um ladrão invade sonhos para roubar segredos da mente;0
+Interstellar;Ficção Científica;Astronautas viajam pelo espaço em busca de um novo lar para a humanidade;0
+O Poderoso Chefão;Drama;A saga de uma família mafiosa italiana nos Estados Unidos;0
+Parasita;Suspense;Uma família pobre se infiltra na vida de uma família rica com consequências inesperadas;0
+Vingadores Ultimato;Ação;Os heróis se unem para reverter a destruição causada por Thanos;0
+Coringa;Drama;A origem do vilão mais famoso dos quadrinhos em uma história sombria e intensa;0
+Matrix;Ficção Científica;Um hacker descobre que o mundo em que vive é uma simulação criada por máquinas;0
+Cidade de Deus;Drama;A história de jovens crescendo no crime nas favelas do Rio de Janeiro;0
